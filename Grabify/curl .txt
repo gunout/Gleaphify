@@ -1,0 +1,2 @@
+curl -X POST -d "url=https://example.com" http://localhost:5000/shorten
+http://localhost:5000/ips/< short code >
