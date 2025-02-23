@@ -1,4 +1,4 @@
-# Gleaphify
+# G L E A P H I F Y
 GEOLOCALISE IP REVEALER like ( Grabify ) !
 
 # REQUIREMENTS 
