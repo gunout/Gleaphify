@@ -31,6 +31,6 @@ SEND THE LINKS GENERATE BY CURL TO YOUR CIBLE ! WAIT THAT HE CLICK ON IT !!!
 
     http://localhost:5000/ips/< shorten code >
 
-IT WILL REVELATE THE IP OF THE PERSON THAT HURT YOU !!!!
+IT WILL REVELATE THE IP OF THE PERSON THAT HURT YOU !!!!  GEOLOCALISE WILL COME SOON . . . 
 
 Gunout 2025 ______________________________________________________
