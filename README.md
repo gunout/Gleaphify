@@ -36,6 +36,7 @@ WAIT THAT HE CLICK ON IT !!!
 
     http://localhost:5000/ips/< shorten code >
 
-IT WILL REVELATE THE IP OF THE PERSON THAT HURT YOU !!!!  GEOLOCALISE WILL COME SOON . . . 
+Gleaphify.py : IT WILL REVELATE THE IP OF THE PERSON THAT HURT YOU !!!!  
+GleaphifyGeolocalise.py : IT WILL REVELATE THE IP WITH THE GEOLOCALISATION OF THE PERSON THAT HURT YOU !!!!  
 
-Gunout 2025 ______________________________________________________
+__________________________________________ Gunout 2025 ___________________________________________________.
